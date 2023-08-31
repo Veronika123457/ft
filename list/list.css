@@ -1,0 +1,35 @@
+body{
+	background-color: yellow;
+
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	color: blue;
+}
+ul,ol{
+	color: hotpink;
+	font-size:24px ;
+	margin-left: 100px;
+}
+.f1 li::marker{
+	color: red;
+	font-size: 1.2em;
+}
+@counter-style circled-digits {
+  system: fixed;
+  symbols: 😀 👻 👽 👾 🤖 🎃 😹 👋 👀 💋 🦄;
+  suffix: ;
+}
+ul.cd{
+	list-style:circled-digits ;
+}
+@counter-style cs-extends {
+  system: extends decimal;
+  prefix: '(';
+  suffix: ') ';
+}
+
+ul.yw{
+  list-style: cs-extends;
+}

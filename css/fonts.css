@@ -1,0 +1,48 @@
+body{
+	background-color: pink;}
+p{
+font-size: 48pt;
+}
+.p1{
+color: white;
+text-align: center;
+background: linear-gradient(to left, red, violet, blue)
+}
+.p2{
+	font-family: "Lucida Console",Courier,monospace;
+	text-shadow: -4px -4px 5px green; 
+}
+.p3{
+	font-family: 'Faster One', cursive;
+	text-shadow: 6px 6px 7px blue;
+}
+.p4{
+	font-family: cursive;
+	text-shadow: -3px -3px brown;
+}
+.p5{
+	font-family: fantasy;
+	text-shadow: -12px -10px 9px yellow;
+}
+.p6{font-family: 'Lobster', cursive;
+	text-shadow: 9px 6px 6px red;
+
+}
+.p7{font-family: 'Caveat', cursive;
+	text-shadow: 4px 4px violet;
+}
+.p8{font-family: 'Press Start 2P', cursive;
+	text-shadow: 3px 3px green;
+}
+.p9{font-family: 'Rubik Wet Paint', cursive;
+	text-shadow: 6px 6px orange;
+
+}
+.p10{font-family: 'Rubik Moonrocks', cursive;
+	 text-shadow: -4px -4px white;
+
+}
+.p11{
+	font-family: 'Comforter', cursive;
+	text-shadow: 5px -5px red;
+}

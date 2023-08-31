@@ -1,0 +1,85 @@
+body{
+	background-color: lightsalmon;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+	background-color: lightblue;
+}
+.ex1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: oblique;
+}
+.ex2{
+	 font-family: cursive;
+	 font-weight: 900;
+	 color: orange;
+	 background-color: green;
+}
+.ex3{
+    font-family: 'Rubik Puddles', cursive;
+    color: white;
+    background-color: black;
+    font-variant: small-caps; 
+}
+.ex4{
+	 font-family: 'Yuji Mai', serif;cursive;
+	color: blue;
+	background-color: yellow;
+}
+.ex5{
+	font-family: 'Rubik Marker Hatch', cursive;
+	color: red;
+	background-color: blue;
+}
+.ex6{
+	font-family: 'Comforter', cursive;
+	color: blue;
+	background-color: orange;
+}
+.ex7{
+	text-shadow: 0 0 10px red;
+}
+.ex8{
+text-shadow: 4px -4px  darkblue;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+.ex9{
+	text-shadow:1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.ex10{
+	text-shadow:
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;
+  color: white;
+  font:
+    2.5em Georgia,
+    serif;
+    background-color: #fff;
+}
+.ex11{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-decoration-color: blue;
+	height: 100px;
+}
+.f1{
+    font-size: 2em;
+    color: orange;
+    font-family: 'Comforter', cursive;
+    text-shadow: 5px -5px maroon;
+
+}
+.f2{
+	 font-size: 2em;
+	 color: red;
+	 font-family: 'Rubik Marker Hatch', cursive;
+     text-shadow: 5px -5px green;
+     text-decoration: underline;
+     text-underline-position: under;
+     text-decoration-color: red;
+     height: 100px;
+}

@@ -1,0 +1,59 @@
+p{
+	font-size: 1in;
+background-image: url(https://th.bing.com/th?id=OIP.NlZJwBCrqzm4JwV1QJowvAHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2);	
+background-size: cover;
+color: white;
+}
+body{
+	background-color: blue;
+	background-image: url(https://trueart-content.oss-cn-shanghai.aliyuncs.com/20190515/031636827_640.gif);
+	background-repeat: no-repeat;
+	background-size: 333px;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+div{
+	margin: 50px;
+}
+.fd{
+	width: 600px;
+	height: 600px;
+	background-image: url(https://64.media.tumblr.com/4e9ec1de5b747c381ff7315f5e121ff4/tumblr_o755atvUn61slo4gpo1_500.jpg);
+	background-size: cover;
+	border: ridge 20px burlywood;
+}
+.sd{
+	width: 600px;
+	height: 600px;
+	  background:linear-gradient(to right, transparent, mistyrose),
+    url("critters.png"),url(https://64.media.tumblr.com/4e9ec1de5b747c381ff7315f5e121ff4/tumblr_o755atvUn61slo4gpo1_500.jpg);
+	background-size: cover;
+	#bitmap 
+  width: 200px;
+  background-color: #ffa;
+  border: 36px solid orange;
+  margin: 30px;
+  padding: 10px;
+}
+.fm{
+	width: 500px;
+	height: 300px;#gradient 
+  width: 200px;
+  border: 30px solid;
+  border-image: repeating-linear-gradient(45deg, #f33, #3bf, #f33 30px) 60;
+  padding: 20px;
+}
+.sm{
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	box-shadow: 10px -10px 50px orange;
+	width: 50%;
+}
+.fs{
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	box-shadow: 10px -10px 50px red;
+	width: 50%;
+}
